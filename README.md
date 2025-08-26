@@ -1,6 +1,8 @@
 # Vue Template
 
-This project is a Vue.js template designed to kickstart your development process. It provides a pre-configured environment with essential tools and best practices for building modern Vue applications.
+This project is a Vue.js template designed to kickstart your development process. 
+It provides a pre-configured environment with essential tools and best practices 
+for building modern Vue applications.
 
 ## Features
 
