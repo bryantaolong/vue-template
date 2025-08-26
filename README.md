@@ -23,7 +23,7 @@ Follow these steps to set up the project:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone "https://github.com/bryantaolong/vue-template.git"
    cd vue-template
    ```
 
