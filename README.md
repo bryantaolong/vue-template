@@ -15,7 +15,7 @@ This project is a Vue.js template designed to kickstart your development process
 Before you begin, ensure you have the following installed:
 
 - [Node.js](https://nodejs.org/) (v16 or higher recommended)
-- [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/)
+- [npm](https://www.npmjs.com/) or [pnpm](https://pnpm.io/)
 
 ## Getting Started
 
