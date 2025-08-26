@@ -41,7 +41,7 @@ Follow these steps to set up the project:
    pnpm run dev
    ```
 
-4. Open your browser and navigate to `http://localhost:3000`.
+4. Open your browser and navigate to `http://localhost:5173`.
 
 ## Scripts
 
@@ -57,12 +57,17 @@ Here are the available scripts:
 ```
 vue-template/
 ├── src/                # Source code
-│   ├── components/     # Vue components
-│   ├── views/          # View components (pages)
-│   ├── router/         # Vue Router configuration
-│   ├── store/          # State management (Pinia)
+│   ├── api/            # API layer
 │   ├── assets/         # Static assets (images, styles, etc.)
-│   └── main.js         # Application entry point
+│   ├── components/     # Vue components
+│   ├── layouts/        # Global layouts
+│   ├── components/     # Vue components
+│   ├── models/         # entities, requests/reponses, vo ...
+│   ├── router/         # Vue Router configuration
+│   ├── stores/         # State management (Pinia)
+│   ├── utils/          # Common utils
+│   ├── App.vue         # Application main vue
+│   └── main.ts         # Application entry point
 ├── public/             # Static public files
 ├── package.json        # Project metadata and dependencies
 └── README.md           # Project documentation
