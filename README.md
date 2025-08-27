@@ -68,6 +68,7 @@ vue-template/
 │   ├── router/         # Vue Router configuration
 │   ├── stores/         # State management (Pinia)
 │   ├── utils/          # Common utils
+│   ├── views/          # View components (pages)
 │   ├── App.vue         # Application main vue
 │   └── main.ts         # Application entry point
 ├── public/             # Static public files
